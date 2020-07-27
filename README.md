@@ -1,6 +1,6 @@
 # jaat
 
-Just
-Another
-Anime
-Thing
+Just  
+Another  
+Anime  
+Thing  
