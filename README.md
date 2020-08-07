@@ -14,3 +14,10 @@ TUI for browsing animes
  - Search
  - Random
  - N/A
+
+## Requirements
+
+ - js2py
+ - bs4
+ - cfscrape
+ - curses (windows requirement only)
