@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+import requests_cache
+requests_cache.install_cache(backend="sqlite", expire_after=3600)
 import cfscrape
 import js2py
 import bs4
